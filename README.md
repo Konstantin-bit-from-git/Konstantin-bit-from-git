@@ -1,4 +1,24 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1>Hi there, I'm Konstantin</h1>
+    <h3>Junior backend Developer fom Moscow</h3>
+</div>
+
+### Languages and tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"        
+title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+title="js" width="40" height="40"/>&nbsp;
+
+
+
+
 
 <!--
 **Konstantin-bit-from-git/Konstantin-bit-from-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
