@@ -19,9 +19,9 @@ title="js" width="40" height="40"/>&nbsp;
 
 ### My stat
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konstantin-bit-from-git&theme=github_dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Konstantin-bit-from-git&theme=github_dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Konstantin-bit-from-git&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konstantin-bit-from-git&theme=chartreuse_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Konstantin-bit-from-git&theme=chartreuse_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Konstantin-bit-from-git&theme=chartreuse_dark"/>
 </div>
 
 
