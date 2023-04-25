@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Konstantin</h1>
-    <h3>Junior backend Developer fom Moscow</h3>
+    <h3>Junior Python Backend Developer fom Moscow</h3>
 </div>
 
 ### Languages and tools
